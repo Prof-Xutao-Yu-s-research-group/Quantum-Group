@@ -41,13 +41,13 @@
 
 ### *李泽通同学顺利完成博士毕业答辩（2025.04）*
 <p align="center">
-<img src="Cover images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
 <strong>博士毕业答辩进行中</strong>
 </p>
 
 ### *胡燚同学完成DeepSeek大模型本地部署（2025.02）*
 <p align="center">
-<img src="Cover images/DeepSeek本地部署使用演示.png" alt="DeepSeek本地部署使用演示" width="600"> <br>
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/DeepSeek本地部署使用演示.png" alt="DeepSeek本地部署使用演示" width="600"> <br>
 <strong>DeepSeek本地部署使用演示</strong>
 </p>
 
