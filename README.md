@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    <a href="https://creativecommons.org/licenses/by-nd/4.0/">
+    <a href="https://github.com/Prof-Xutao-Yu-s-research-group/Quantum-Group/blob/main/LICENSE">
     <img alt="License: CC BY-ND" src="https://img.shields.io/badge/License-CC%20BY--ND-blue">
   </a>
    <a href="https://github.com/Prof-Xutao-Yu-s-research-group/Quantum-Group/activity">
