@@ -9,7 +9,7 @@
   💡 <strong>变分量子算法</strong> · <strong>量子线路设计</strong> · <strong>量子机器学习</strong> <br>
   📍 <a href="https://radio.seu.edu.cn/" target="_blank"><strong>东南大学信息科学与工程学院</strong></a> · <strong>Southeast University<strong>
 </p>
-<h3><p align="center">Updated, Scalable, Easy Implement, Easy Reading and Comprehension</p></h3>
+<h3><p align="center">Supportive Culture, Competitive Benefits, Relaxed Research Atmosphere</p></h3>
 
 
 <p align="center">
