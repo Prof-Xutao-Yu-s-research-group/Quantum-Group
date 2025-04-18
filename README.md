@@ -9,8 +9,8 @@
 <h3 align="center">（余旭涛教授课题组之一）</h3>
 
 <p align="center">
-  💡 量子计算 · 量子线路设计 · 量子机器学习  <br>
-  📍 <a href="https://radio.seu.edu.cn/" target="_blank"><strong>东南大学信息科学与工程学院</strong></a> · Southeast University
+  💡 <strong>量子计算</strong> · <strong>量子线路设计</strong> · <strong>量子机器学习</strong> <br>
+  📍 <a href="https://radio.seu.edu.cn/" target="_blank"><strong>东南大学信息科学与工程学院</strong></a> · <strong>Southeast University<strong>
 </p>
 <h2><p align="center">量子研究小组（余旭涛教授课题组之一）</h1>
 <h3><p align="center">Updated, Scalable, Easy Implement, Easy Reading and Comprehension</p></h3>
