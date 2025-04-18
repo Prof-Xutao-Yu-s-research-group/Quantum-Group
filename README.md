@@ -40,7 +40,9 @@
 ## 课题组重要热点
 
 ### *李泽通同学顺利完成博士毕业答辩（2025.04）*
-
+<p align="center">
+<img src="figures/workflow.png" alt="答辩结束后与老师合照" width="500">
+</p>
 
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
