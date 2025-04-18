@@ -51,6 +51,9 @@
 <strong>DeepSeek本地部署使用演示</strong>
 </p>
 
+### *李泽通同学在顶刊PRL上发表量子设备刻画最新研究成果（2024.12）*
+
+
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
 © 2025 Prof. Xutao Yu’s research group（余旭涛教授课题组）. All rights reserved.
