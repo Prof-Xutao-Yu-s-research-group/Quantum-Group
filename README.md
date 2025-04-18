@@ -45,6 +45,12 @@
 <strong>博士毕业答辩进行中</strong>
 </p>
 
+### *胡燚同学完成DeepSeek大模型本地部署（2025.02）*
+<p align="center">
+<img src="Cover images/DeepSeek本地部署使用演示.png" alt="DeepSeek本地部署使用演示" width="600"> <br>
+<strong>DeepSeek本地部署使用演示</strong>
+</p>
+
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
 © 2025 Prof. Xutao Yu’s research group（余旭涛教授课题组）. All rights reserved.
