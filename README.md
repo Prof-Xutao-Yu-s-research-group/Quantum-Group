@@ -2,7 +2,7 @@
 <img src="figures/Q&ML.png" alt="Q&ML Logo" width="600">
 </p>
 <h1 align="center">
-  <strong>量子研究小组（<a href="[https://cs.njtech.edu.cn/yzx/](https://radio.seu.edu.cn/2018/0423/c19949a213711/page.htm)" target="_blank">余旭涛教授</a>子课题组）</strong>
+  <strong>量子研究小组（<a href="https://radio.seu.edu.cn/2018/0423/c19949a213711/page.htm" target="_blank">余旭涛教授</a>子课题组）</strong>
 </h1>
 
 <p align="center">
