@@ -5,7 +5,10 @@
   <img src="https://img.shields.io/badge/Quantum%20Research%20Lab-%E4%BD%99%E6%97%AD%E6%B6%9B%E6%95%99%E6%8E%88%E8%AF%BE%E9%A2%98%E7%BB%84-blueviolet?style=flat-square&logo=github" alt="logo" />
 </p>
 
-<h1 align="center"><strong>量子研究小组</strong></h1> <h3（余旭涛教授课题组之一）</h3>
+<p align="center">
+  <span style="font-size:32px; font-weight:bold;">量子研究小组</span>
+  <span style="font-size:18px;">（余旭涛教授课题组之一）</span>
+</p>
 
 <p align="center">
   💡 <strong>量子计算</strong> · <strong>量子线路设计</strong> · <strong>量子机器学习</strong> <br>
