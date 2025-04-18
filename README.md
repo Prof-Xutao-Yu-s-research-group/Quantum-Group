@@ -52,7 +52,7 @@
 </p>
 
 ### *李泽通同学在顶刊PRL上发表量子设备刻画最新研究成果（2024.12）*
-
+李泽通同学以《Stiefel流形上基于等距算符的量子梳层析》（“[**Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)”）为题在Physical Review Letters上发表对量子设备时空相关性的高效高精度刻画相关研究成果。
 
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
