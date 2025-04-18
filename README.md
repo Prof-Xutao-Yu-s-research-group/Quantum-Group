@@ -43,6 +43,7 @@
 <p align="center">
 <img src="Cover images/答辩结束后与老师合照.jpg" alt="答辩结束后与老师合照" width="600">
 </p>
+**答辩结束后与老师合照.**
 
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
