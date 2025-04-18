@@ -41,7 +41,7 @@
 
 ### *李泽通同学顺利完成博士毕业答辩（2025.04）*
 <p align="center">
-<img src="Cover images/答辩结束后与老师合照.jpg" alt="答辩结束后与老师合照" width="600">
+<img src="Cover images/答辩结束后与老师合照.jpg" alt="答辩结束后与老师合照" width="600"> <br>
 <strong>答辩结束后与老师合照</strong>
 </p>
 
