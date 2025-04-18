@@ -5,14 +5,12 @@
   <img src="https://img.shields.io/badge/Quantum%20Research%20Lab-%E4%BD%99%E6%97%AD%E6%B6%9B%E6%95%99%E6%8E%88%E8%AF%BE%E9%A2%98%E7%BB%84-blueviolet?style=flat-square&logo=github" alt="logo" />
 </p>
 
-<h1 align="center"><strong>量子研究小组</strong></h1>
-<h3 align="center">（余旭涛教授课题组之一）</h3>
+<h1 align="center"><strong>量子研究小组（余旭涛教授课题组之一）</strong></h1>
 
 <p align="center">
   💡 <strong>量子计算</strong> · <strong>量子线路设计</strong> · <strong>量子机器学习</strong> <br>
   📍 <a href="https://radio.seu.edu.cn/" target="_blank"><strong>东南大学信息科学与工程学院</strong></a> · <strong>Southeast University<strong>
 </p>
-<h2><p align="center">量子研究小组（余旭涛教授课题组之一）</h1>
 <h3><p align="center">Updated, Scalable, Easy Implement, Easy Reading and Comprehension</p></h3>
 
 
