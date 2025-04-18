@@ -2,7 +2,7 @@
 <img src="figures/Q&ML.png" alt="Q&ML Logo" width="600">
 </p>
 
-<h2><p align="center">量子研究小组（余旭涛教授课题组）</p></h2>
+<h2><p align="center">量子研究小组（余旭涛教授课题组之一）</p></h2>
 <h3><p align="center">Updated, Scalable, Easy Implement, Easy Reading and Comprehension</p></h3>
 
 
