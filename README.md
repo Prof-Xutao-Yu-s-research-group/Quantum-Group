@@ -38,7 +38,9 @@
 
 
 ## 课题组重要热点
-Relevant data for the paper entitled "[**Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**](https://www.sciencedirect.com/science/article/pii/S0375960125003214)"
+
+### 李泽通博士顺利完成学业答辩（2025.04）
+
 
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
