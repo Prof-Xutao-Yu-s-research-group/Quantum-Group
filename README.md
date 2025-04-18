@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Cover images/icon.png" alt="Quantum Group Logo" width="600">
+<img src="Cover images/icon.png" alt="Quantum Group Logo" width="500">
 </p>
 <h1 align="center">
   <strong>量子研究小组（<a href="https://radio.seu.edu.cn/2018/0423/c19949a213711/page.htm" target="_blank">余旭涛教授</a>子课题组）</strong>
