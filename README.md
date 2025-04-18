@@ -19,6 +19,9 @@
    <a href="https://github.com/Prof-Xutao-Yu-s-research-group/Quantum-Group/activity">
         <img alt="Activity" src="https://img.shields.io/github/last-commit/Prof-Xutao-Yu-s-research-group/Quantum-Group">
     </a>
+  <a>
+   <img alt="status: active" src="https://img.shields.io/badge/status-active-b35c00">
+   </a>
        <a href="https://www.nsfc.gov.cn/english/site_1/index.html">
         <img alt="Fund" src="https://img.shields.io/badge/supported%20by-NSFC-green">
     </a>
