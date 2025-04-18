@@ -25,7 +25,9 @@
     <a href="https://twitter.com/FindOne0258">
         <img alt="twitter" src="https://img.shields.io/badge/twitter-chat-2eb67d.svg?logo=twitter">
     </a>
-
+    <a href="mailto:xutao.yu@njust.edu.cn">
+    <img alt="email" src="https://img.shields.io/badge/email-xutao.yu%40njust.edu.cn-blue?logo=gmail">
+  </a>
 
 </p>
 <br />
