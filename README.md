@@ -9,8 +9,8 @@
 <h3 align="center">（余旭涛教授课题组之一）</h3>
 
 <p align="center">
-  🧠 量子计算 · 量子线路 · 量子人工智能 <br>
-  📍 南京工业大学计算机学院 · Nanjing Tech University
+  💡 量子计算 · 量子线路设计 · 量子机器学习  <br>
+  📍 [东南大学信息科学与工程学院](https://radio.seu.edu.cn/) · Southeast University
 </p>
 <h2><p align="center">量子研究小组（余旭涛教授课题组之一）</h1>
 <h3><p align="center">Updated, Scalable, Easy Implement, Easy Reading and Comprehension</p></h3>
