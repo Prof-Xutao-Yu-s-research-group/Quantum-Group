@@ -17,7 +17,7 @@
         <img alt="MIT License" src="https://img.shields.io/github/license/QUANTUM-AND-ML/QAOA-ML-Detection">
     </a>
    <a href="https://github.com/QUANTUM-AND-ML/QAOA-ML-Detection-PLA/activity">
-        <img alt="Activity" src="https://img.shields.io/github/last-commit/QUANTUM-AND-ML/QAOA-ML-Detection-PLA?color=%23f38b51">
+        <img alt="Activity" src="https://img.shields.io/github/last-commit/Prof-Xutao-Yu-s-research-group/Quantum-Group">
     </a>
        <a href="https://www.nsfc.gov.cn/english/site_1/index.html">
         <img alt="Fund" src="https://img.shields.io/badge/supported%20by-NSFC-green">
