@@ -23,7 +23,7 @@
         <img alt="Fund" src="https://img.shields.io/badge/supported%20by-NSFC-green">
     </a>
     <a>
-   <img alt="status: active" src="https://img.shields.io/badge/status-active-orange">
+   <img alt="status: active" src="https://img.shields.io/badge/status-active-b35c00">
    </a>
     <a href="mailto:yuxutao@seu.edu.cn">
   <img alt="email" src="https://img.shields.io/badge/email-xutao.yu%40njust.edu.cn-A0522D?logo=gmail&logoColor=white&style=flat">
