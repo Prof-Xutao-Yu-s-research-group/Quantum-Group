@@ -68,8 +68,10 @@
 }
 ```
 ### *何欣临、徐晓然、周灵彤等同学在第十九届“挑战杯”竞赛“揭榜挂帅”专项赛荣特等奖擂主（2024.11）*
-&emsp;&emsp;李泽通同学以《Stiefel流形上基于等距算符的量子梳层析》（“[**Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)”）为题在Physical Review Letters上发表对量子设备时空相关性的高效高精度刻画相关研究成果并被东南大学[**主页报道**](https://news.seu.edu.cn/2025/0113/c55840a517314/page.htm)。  
-论文引用格式如下：
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
+<strong>博士毕业答辩进行中</strong>
+</p>
 
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
