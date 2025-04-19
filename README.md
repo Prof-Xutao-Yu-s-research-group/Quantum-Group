@@ -26,7 +26,7 @@
         <img alt="Fund" src="https://img.shields.io/badge/supported%20by-NSFC-green">
     </a>
     <a href="mailto:yuxutao@seu.edu.cn">
-  <img alt="email" src="https://img.shields.io/badge/email-xutao.yu%40njust.edu.cn-A0522D?logo=gmail&logoColor=white&style=flat">
+  <img alt="email" src="https://img.shields.io/badge/email-yuxutao%40seu.edu.cn-A0522D?logo=gmail&logoColor=white&style=flat">
   </a>
   <a href="https://twitter.com/FindOne0258">
         <img alt="twitter" src="https://img.shields.io/badge/twitter-chat-2eb67d.svg?logo=twitter">
