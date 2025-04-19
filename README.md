@@ -8,7 +8,7 @@
 <p align="center">
   💡 <strong>量子计算机的刻画和可靠性基准验证体系</strong> · <strong>量子线路智能设计与优化</strong> <br>
   💡 <strong>Quantum Computation for AI / AI for Quantum Computation</strong> · <strong>量子计算在通信系统和其它领域中的应用</strong> <br>
-  📍 <a href="https://mmw.seu.edu.cn/main.htm" target="_blank"><strong>毫米波全国重点实验室<strong></a> · <a href="https://radio.seu.edu.cn/" target="_blank"><strong>东南大学信息科学与工程学院</strong></a> · <strong>东南大学<strong><a href="https://mmw.seu.edu.cn/main.htm" target="_blank"><strong>毫米波全国重点实验室<strong></a>
+  📍 <a href="https://mmw.seu.edu.cn/main.htm" target="_blank"><strong>毫米波全国重点实验室<strong></a> · <a href="https://radio.seu.edu.cn/" target="_blank"><strong>东南大学信息科学与工程学院</strong></a> · <strong>东南大学<strong>
 </p>
 <h3><p align="center">Supportive Culture, Competitive Benefits, Relaxed Research Atmosphere</p></h3>
 
