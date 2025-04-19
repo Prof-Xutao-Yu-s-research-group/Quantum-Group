@@ -2,7 +2,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/icon.png" alt="Quantum Group Logo" width="500">
 </p>
 <h1 align="center">
-  <strong>量子研究小组（<a href="https://radio.seu.edu.cn/2018/0423/c19949a213711/page.htm" target="_blank">余旭涛教授</a>子课题组）</strong>
+  <strong>量子计算研究小组</strong>
 </h1>
 
 <p align="center">
