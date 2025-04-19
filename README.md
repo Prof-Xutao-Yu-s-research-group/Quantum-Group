@@ -67,7 +67,7 @@
   publisher={APS}
 }
 ```
-### *何欣临、徐晓然、周灵彤等同学在第十九届“挑战杯”竞赛“揭榜挂帅”专项赛荣获**特等奖擂主**（2024.11）*
+### *何欣临、徐晓然、周灵彤等同学在第十九届“挑战杯”竞赛“揭榜挂帅”专项赛荣获2024.11）*
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/参加“挑战杯”竞赛决赛前合影（2024.11）.png" alt="参加“挑战杯”竞赛决赛前合影" width="600"> <br>
 <strong>参加“挑战杯”竞赛决赛前合影</strong>
