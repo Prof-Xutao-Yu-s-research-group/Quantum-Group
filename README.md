@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  💡 <strong>变分量子算法</strong> · <strong>量子线路设计</strong> · <strong>量子机器学习</strong> <br>
+  💡 <strong>量子计算机的刻画和可靠性基准验证体系</strong> · <strong>量子线路智能设计与优化</strong> · <strong>Quantum Computation for AI/AI for Quantum Computation</strong> · <strong>量子计算在通信系统和其它领域中的应用</strong><br>
   📍 <a href="https://radio.seu.edu.cn/" target="_blank"><strong>东南大学信息科学与工程学院</strong></a> · <strong>Southeast University<strong>
 </p>
 <h3><p align="center">Supportive Culture, Competitive Benefits, Relaxed Research Atmosphere</p></h3>
