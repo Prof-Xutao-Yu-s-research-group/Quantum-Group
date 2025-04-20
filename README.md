@@ -97,7 +97,7 @@
 ## 近期成果展示
 ### 论文录用
 1. **Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**  
-   *Physics Letters A, 2025.* [🔗 Link](https://www.sciencedirect.com/science/article/pii/S0375960125003214)
+   *Physics Letters A, 2025.*  [🔗 Link](https://www.sciencedirect.com/science/article/pii/S0375960125003214)
 
 2. **A Quantum Circuit Benchmarking Framework for AI-based Optimization**  
    *arXiv preprint arXiv:2404.12345, 2024.*  
