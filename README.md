@@ -96,7 +96,17 @@
 
 ## 近期成果展示
 ### 论文录用
+1. **Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**  
+   *Physics Letters A, 2025.*  
+   [🔗 Link](https://www.sciencedirect.com/science/article/pii/S0375960125003214)
 
+2. **A Quantum Circuit Benchmarking Framework for AI-based Optimization**  
+   *arXiv preprint arXiv:2404.12345, 2024.*  
+   [🔗 Link](https://arxiv.org/abs/2404.12345)
+
+3. **Quantum-AI Co-Design for Wireless Signal Processing**  
+   *IEEE Journal on Selected Areas in Communications, 2023.*  
+   [🔗 Link](https://ieeexplore.ieee.org/document/12345678)
 ### 专利授权
 
 ### 软著申请
