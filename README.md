@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a68f3209-9621-4d0e-9e96-d725ed2a4fed)<p align="center">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/icon.png" alt="Quantum Group Logo" width="500">
 </p>
 <h1 align="center">
