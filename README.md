@@ -100,10 +100,34 @@
    *Physical Review Letters, 2025.*  [📄 Link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)
 
 2. **Hybrid Quantum-Classical Inception Neural Network for Image Classification**  
-   *Advanced Quantum Technologies, 2025.*  [🔗 Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/qute.202400700)
+   *Advanced Quantum Technologies, 2025.*  [📄 Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/qute.202400700)
    
 3. **Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**  
-   *Physics Letters A, 2025.*  [🔗 Link](https://www.sciencedirect.com/science/article/pii/S0375960125003214)
+   *Physics Letters A, 2025.*  [📄 Link](https://www.sciencedirect.com/science/article/pii/S0375960125003214)
+
+4. **A quantum moving target segmentation algorithm for grayscale video based on background difference method**  
+   *EPJ Quantum Technology, 2024.*  [📄 Link](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00234-0)
+
+5. **Non-Markovian quantum gate set tomography**  
+   *Quantum Science and Technology, 2024.*  [📄 Link](https://iopscience.iop.org/article/10.1088/2058-9565/ad3d80/meta)
+
+6. **A quantum moving target segmentation algorithm based on mean background modeling**  
+   *Quantum Information Processing, 2024.*  [📄 Link](https://link.springer.com/article/10.1007/s11128-024-04578-5)
+
+7. **Cross-platform comparison of arbitrary quantum processes**  
+   *npj Quantum Information, 2024.*  [📄 Link](https://www.nature.com/articles/s41534-023-00797-3)
+
+8. **A quantum synthetic aperture radar image denoising algorithm based on grayscale morphology**  
+   *iScience, 2024.*  [📄 Link](https://www.cell.com/iscience/fulltext/S2589-0042(24)00849-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004224008496%3Fshowall%3Dtrue)
+
+9. **Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection in Massive MIMO**  
+   *IEEE Wireless Communications and Networking Conference (WCNC), 2024.*  [📄 Link](https://ieeexplore.ieee.org/document/10571165)
+
+10. **Practical circuit optimization algorithm for quantum simulation based on template matching**  
+   *Quantum Information Processing, 2024.*  [📄 Link](https://link.springer.com/article/10.1007/s11128-023-04252-2)
+
+11. **Improved Quantum Approximate Optimization Algorithm for Low-Density Parity-Check Channel Decoding**  
+   *Advanced Quantum Technologies, 2024.*  [📄 Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/qute.202300262)
 
 ### 专利授权
 
