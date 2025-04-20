@@ -73,6 +73,13 @@
 <strong>参加“挑战杯”竞赛决赛前合影</strong>
 </p>
 
+### *李泽通、胡燚、郑聪聪等同学参加24届亚洲量子信息科学会议（AQIS，日本札幌）（2024.08）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/参加“挑战杯”竞赛决赛前合影（2024.11）.png" alt="参加“挑战杯”竞赛决赛前合影" width="600"> <br>
+<strong>参加“挑战杯”竞赛决赛前合影</strong>
+</p>
+
+
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
 © 2025 Prof. Xutao Yu’s research group（余旭涛教授课题组）. All rights reserved.
