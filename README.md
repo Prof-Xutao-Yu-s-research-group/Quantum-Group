@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/a68f3209-9621-4d0e-9e96-d725ed2a4fed)<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/icon.png" alt="Quantum Group Logo" width="500">
 </p>
 <h1 align="center">
@@ -129,7 +129,12 @@
 11. **Improved Quantum Approximate Optimization Algorithm for Low-Density Parity-Check Channel Decoding**  
    *Advanced Quantum Technologies, 2024.*  [📄 Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/qute.202300262)
 
+12. **Maximum Likelihood Detection Based on Warm-start Quantum Optimization Algorithm**  
+   *Information Communication Technologies Conference (ICTC), 2024.*  [📄 Link](https://ieeexplore.ieee.org/document/10602129)
+
 ### 专利授权
+- **ZL202210713389.9** *一种用于量子信息编码的方法*
+
 
 ### 软著申请
 
