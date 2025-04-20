@@ -97,7 +97,7 @@
 ## 近期成果展示
 ### 论文录用
 1. **Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**  
-   *Physical Review Letters, 2025.*  [🔗 Link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)
+   *Physical Review Letters, 2025.*  [📄 Link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)
 
 2. **Hybrid Quantum-Classical Inception Neural Network for Image Classification**  
    *Advanced Quantum Technologies, 2025.*  [🔗 Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/qute.202400700)
