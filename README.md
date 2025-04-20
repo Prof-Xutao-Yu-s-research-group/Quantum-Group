@@ -95,7 +95,7 @@
 🎉 欢迎对量子研究感兴趣的同学加入我们量子计算研究小组攻读*硕士 / 博士*学位（📧  yuxutao@seu.edu.cn，可附带简历）。
 
 ## 近期成果展示
-### 论文录用
+### 论文发表
 1. **Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**  
    *Physical Review Letters, 2025.*  [📄 Link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)
 
@@ -144,6 +144,10 @@
 - **ZL202010127978.X** *通用量子比较电路的实现方法*
 
 ### 软著申请
+- *量子线路优化和线路输出比特串概率计算软件*
+- *一种基于浅层混合量子-经典卷积神经网络的SAR目标识别软件*
+- *基于SABRE算法的量子比特映射软件*
+
 
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
