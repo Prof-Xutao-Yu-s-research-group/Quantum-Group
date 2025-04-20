@@ -94,6 +94,13 @@
 
 🎉 欢迎对量子研究感兴趣的同学加入我们量子计算研究小组攻读*硕士 / 博士*学位（📧  yuxutao@seu.edu.cn，可附带简历）。
 
+## 近期成果展示
+### 论文录用
+
+### 专利授权
+
+### 软著申请
+
 ## 版权协议
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
 © 2025 Prof. Xutao Yu’s research group（余旭涛教授课题组）. All rights reserved.
