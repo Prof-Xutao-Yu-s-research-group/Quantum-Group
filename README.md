@@ -76,7 +76,7 @@
 ### *李泽通、胡燚、郑聪聪等同学参加24届亚洲量子信息科学会议（AQIS，日本札幌）（2024.08）*
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/“Student Poster Awards”获得两项银奖（2024.08）.png" alt="“Student Poster Awards”获得两项银奖" width="600"> <br>
-<strong>“Student Poster Awards”获得两项银奖</strong>
+<strong>荣获“Student Poster Awards”两项银奖</strong>
 </p>
 
 ## 量子计算研究小组介绍
