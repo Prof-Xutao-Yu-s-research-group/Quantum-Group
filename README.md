@@ -153,3 +153,12 @@
 This work is licensed under the [CC BY-ND 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
 © 2025 Prof. Xutao Yu’s research group（余旭涛教授课题组）. All rights reserved.
 
+---
+
+## 课题组历史热点回顾
+
+### *李泽通同学顺利完成博士毕业答辩（2025.04）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
+<strong>博士毕业答辩进行中</strong>
+</p>
