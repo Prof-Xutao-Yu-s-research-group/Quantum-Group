@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/“Student Poster Awards”获得两项银奖（2024.08）.png" alt="“Student Poster Awards”获得两项银奖" width="600"> <br>
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/“Student Poster Awards”获得两项银奖（2024.08）.png" alt="“Student Poster Awards”获得两项银奖" width="500"> <br>
 <strong>荣获“Student Poster Awards”两项银奖</strong>
 </p>
 
