@@ -40,6 +40,12 @@
 
 ## 课题组重要热点
 
+### *硕士同学顺利完成毕业答辩（2025.05）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
+<strong>硕士毕业答辩合照</strong>
+</p>
+
 ### *李泽通同学顺利完成博士毕业答辩（2025.04）*
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
