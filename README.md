@@ -73,17 +73,6 @@
 <strong>参加“挑战杯”竞赛决赛前合影</strong>
 </p>
 
-### *李泽通、胡燚、郑聪聪等同学参加24届亚洲量子信息科学会议（AQIS，日本札幌）（2024.08）*
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/参加24届亚洲量子信息科学会议.jpg" alt="参加24届亚洲量子信息科学会议" width="600"> <br>
-<strong>参加24届亚洲量子信息科学会议</strong>
-</p>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/“Student Poster Awards”获得两项银奖（2024.08）.png" alt="“Student Poster Awards”获得两项银奖" width="500"> <br>
-<strong>荣获“Student Poster Awards”两项银奖</strong>
-</p>
-
 ## 量子计算研究小组介绍
 
 量子计算研究小组依托于东南大学 [*毫米波全国重点实验室*](https://mmw.seu.edu.cn/main.htm) 和江苏省 [*紫金山实验室*](https://www.pmlabs.com.cn/)，研究方向包括：
@@ -161,6 +150,17 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
+
+### *李泽通、胡燚、郑聪聪等同学参加24届亚洲量子信息科学会议（AQIS，日本札幌）（2024.08）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/参加24届亚洲量子信息科学会议.jpg" alt="参加24届亚洲量子信息科学会议" width="600"> <br>
+<strong>参加24届亚洲量子信息科学会议</strong>
+</p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/“Student Poster Awards”获得两项银奖（2024.08）.png" alt="“Student Poster Awards”获得两项银奖" width="500"> <br>
+<strong>荣获“Student Poster Awards”两项银奖</strong>
+</p>
 
 ### *刘雨享、王璐、李泽通等同学参加CCF量子计算大会（长沙，2024.08）*
 <p align="center">
