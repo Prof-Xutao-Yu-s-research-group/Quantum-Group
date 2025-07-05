@@ -40,6 +40,12 @@
 
 ## 课题组重要热点
 
+### *计金鹏同学荣获“东大-昆山”杯全国高校青年研究生理论宣讲大赛特等奖（2025.07）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
+<strong>硕士同学毕业答辩与老师合照</strong>
+</p>
+
 ### *2025届硕士同学顺利完成毕业答辩（2025.05）*
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
@@ -73,11 +79,6 @@
   publisher={APS}
 }
 ```
-### *何欣临、徐晓然、周灵彤等同学在第十九届“挑战杯”竞赛“揭榜挂帅”专项赛荣获特等奖擂主（2024.11）*
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/参加“挑战杯”竞赛决赛前合影（2024.11）.png" alt="参加“挑战杯”竞赛决赛前合影" width="600"> <br>
-<strong>参加“挑战杯”竞赛决赛前合影</strong>
-</p>
 
 ## 量子计算研究小组介绍
 
@@ -156,6 +157,12 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
+
+### *何欣临、徐晓然、周灵彤等同学在第十九届“挑战杯”竞赛“揭榜挂帅”专项赛荣获特等奖擂主（2024.11）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/参加“挑战杯”竞赛决赛前合影（2024.11）.png" alt="参加“挑战杯”竞赛决赛前合影" width="600"> <br>
+<strong>参加“挑战杯”竞赛决赛前合影</strong>
+</p>
 
 ### *李泽通、胡燚、郑聪聪等同学参加24届亚洲量子信息科学会议（AQIS，日本札幌）（2024.08）*
 <p align="center">
