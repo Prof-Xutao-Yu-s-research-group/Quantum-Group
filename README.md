@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/icon.png" alt="Quantum Group Logo" width="500">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/icon.PNG" alt="Quantum Group Logo" width="500">
 </p>
 <h1 align="center">
   <strong>量子计算研究小组</strong>
