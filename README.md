@@ -40,10 +40,10 @@
 
 ## 课题组重要热点
 
-### *计金鹏同学荣获“东大-昆山”杯全国高校青年研究生理论宣讲大赛特等奖（2025.07）*
+### *计金朋同学荣获首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛特等奖（2025.07）*
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
-<strong>硕士同学毕业答辩与老师合照</strong>
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/计金朋比赛进行时.jpg" alt="比赛进行时" width="600"> <br>
+<strong>比赛进行时</strong>
 </p>
 
 ### *2025届硕士同学顺利完成毕业答辩（2025.05）*
