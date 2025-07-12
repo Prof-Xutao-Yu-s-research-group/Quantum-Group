@@ -41,7 +41,7 @@
 ## 课题组重要热点
 
 ### *计金朋同学荣获首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛特等奖（2025.07）*
-&emsp;&emsp;7月3日至4日，首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛在中共昆山市委党校举办。计金朋同学在决赛现场围绕“中国式现代化的学理阐释”，“中国式现代化的生动实践”及“中国式现代化的昆山观察”三大主题进行8分钟限时宣讲，荣获特等奖并被东南大学[**主页报道**](https://mp.weixin.qq.com/s/9sADBW6bSYzsfBYqatcfEQ)。 
+&emsp;&emsp;7月3日至4日，首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛在中共昆山市委党校举办。计金朋同学在决赛现场围绕“中国式现代化的学理阐释”，“中国式现代化的生动实践”及“中国式现代化的昆山观察”三大主题进行8分钟限时宣讲，荣获特等奖并被东南大学[**报道**](https://mp.weixin.qq.com/s/9sADBW6bSYzsfBYqatcfEQ)。 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/计金朋比赛进行时.jpg" alt="比赛进行时" width="600"> <br>
 <strong>比赛进行时</strong>
