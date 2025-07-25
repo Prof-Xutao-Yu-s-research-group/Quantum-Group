@@ -40,6 +40,13 @@
 
 ## 课题组重要热点
 
+### *刘雨享、王璐、郑聪聪、计金鹏等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
+&emsp;&emsp;7月21日至23日，[**第四届CCF量子计算大会**](https://conf.ccf.org.cn/web/html7/index.html?globalId=m1347947516531970048174141733159&type=1)以"量子计算融合人工智能赋能千行百业"为主题在中国成都举办，课题组多位同学参加，共投稿三篇Poster海报和一篇会议论文。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/课题组部分参会同学合照.jpg" alt="课题组部分参会同学合照" width="600"> <br>
+<strong>课题组部分参会同学合照</strong>
+</p>
+
 ### *计金朋同学荣获首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛特等奖（2025.07）*
 &emsp;&emsp;7月3日至4日，首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛在中共昆山市委党校举办。计金朋同学在决赛现场围绕“中国式现代化的学理阐释”，“中国式现代化的生动实践”及“中国式现代化的昆山观察”三大主题进行8分钟限时宣讲，荣获特等奖并被[**东南大学报道**](https://mp.weixin.qq.com/s/9sADBW6bSYzsfBYqatcfEQ)。 
 <p align="center">
@@ -64,22 +71,6 @@
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/DeepSeek本地部署使用演示.png" alt="DeepSeek本地部署使用演示" width="600"> <br>
 <strong>DeepSeek本地部署使用演示</strong>
 </p>
-
-### *李泽通同学在顶刊PRL上发表量子设备刻画最新研究成果（2025.01）*
-&emsp;&emsp;李泽通同学以《Stiefel流形上基于等距算符的量子梳层析》（“[**Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)”）为题在Physical Review Letters上发表对量子设备时空相关性的高效高精度刻画相关研究成果并被东南大学[**主页报道**](https://news.seu.edu.cn/2025/0113/c55840a517314/page.htm)。  
-论文引用格式如下：
-```
-@article{li2025quantum,
-  title={Quantum Comb Tomography via Learning Isometries on Stiefel Manifold},
-  author={Li, Ze-Tong and He, Xin-Lin and Zheng, Cong-Cong and Dong, Yu-Qian and Luan, Tian and Yu, Xu-Tao and Zhang, Zai-Chen},
-  journal={Physical Review Letters},
-  volume={134},
-  number={1},
-  pages={010803},
-  year={2025},
-  publisher={APS}
-}
-```
 
 ## 量子计算研究小组介绍
 
@@ -158,6 +149,22 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
+
+### *李泽通同学在顶刊PRL上发表量子设备刻画最新研究成果（2025.01）*
+&emsp;&emsp;李泽通同学以《Stiefel流形上基于等距算符的量子梳层析》（“[**Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)”）为题在Physical Review Letters上发表对量子设备时空相关性的高效高精度刻画相关研究成果并被东南大学[**主页报道**](https://news.seu.edu.cn/2025/0113/c55840a517314/page.htm)。  
+论文引用格式如下：
+```
+@article{li2025quantum,
+  title={Quantum Comb Tomography via Learning Isometries on Stiefel Manifold},
+  author={Li, Ze-Tong and He, Xin-Lin and Zheng, Cong-Cong and Dong, Yu-Qian and Luan, Tian and Yu, Xu-Tao and Zhang, Zai-Chen},
+  journal={Physical Review Letters},
+  volume={134},
+  number={1},
+  pages={010803},
+  year={2025},
+  publisher={APS}
+}
+```
 
 ### *何欣临、徐晓然、周灵彤等同学在第十九届“挑战杯”竞赛“揭榜挂帅”专项赛荣获特等奖擂主（2024.11）*
 <p align="center">
