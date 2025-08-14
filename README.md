@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/AQIS2025会议.jpg" alt="课题组部分参会同学合照" width="600"> <br>
-<strong>亚洲量子资讯科学会议（AQIS 2025）开幕</strong>
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/最佳学生海报奖（2025.08）.jpg" alt="何欣临同学荣获最佳学生海报奖" width="600"> <br>
+<strong>何欣临同学荣获“Best Student Poster: Second Prize”</strong>
 </p>
 
 ### *刘雨享、王璐、郑聪聪、计金鹏等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
