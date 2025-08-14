@@ -66,12 +66,6 @@
 <strong>博士毕业答辩进行中</strong>
 </p>
 
-### *胡燚同学完成DeepSeek大模型本地部署（2025.02）*
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/DeepSeek本地部署使用演示.png" alt="DeepSeek本地部署使用演示" width="600"> <br>
-<strong>DeepSeek本地部署使用演示</strong>
-</p>
-
 ## 量子计算研究小组介绍
 
 量子计算研究小组依托于东南大学 [*毫米波全国重点实验室*](https://mmw.seu.edu.cn/main.htm) 和江苏省 [*紫金山实验室*](https://www.pmlabs.com.cn/)，研究方向包括：
@@ -149,6 +143,11 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
+### *胡燚同学完成DeepSeek大模型本地部署（2025.02）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/DeepSeek本地部署使用演示.png" alt="DeepSeek本地部署使用演示" width="600"> <br>
+<strong>DeepSeek本地部署使用演示</strong>
+</p>
 
 ### *李泽通同学在顶刊PRL上发表量子设备刻画最新研究成果（2025.01）*
 &emsp;&emsp;李泽通同学以《Stiefel流形上基于等距算符的量子梳层析》（“[**Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)”）为题在Physical Review Letters上发表对量子设备时空相关性的高效高精度刻画相关研究成果并被东南大学[**主页报道**](https://news.seu.edu.cn/2025/0113/c55840a517314/page.htm)。  
