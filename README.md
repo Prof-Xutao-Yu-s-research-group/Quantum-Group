@@ -41,7 +41,12 @@
 ## 课题组重要热点
 
 ### *郑聪聪、王璐、何欣临、胡颖颖、范陆昊多位同学参加亚洲量子资讯科学会议（AQIS 2025）（2025.08）*
-&emsp;&emsp;8月4日至8日，亚洲量子资讯科学会议（AQIS 2025）在香港大学百周年校园举行，课题组多位同学参加，其中何欣临同学荣获“Best Student Poster: Second Prize”。 
+&emsp;&emsp;8月4日至8日，[**亚洲量子资讯科学会议（AQIS 2025）**](https://www.hku.hk/press/c_news_detail_28534.html)在香港大学百周年校园举行，课题组多位同学参加，其中何欣临同学荣获“Best Student Poster: Second Prize”。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/AQIS2025会议.jpg" alt="课题组部分参会同学合照" width="600"> <br>
+<strong>亚洲量子资讯科学会议（AQIS 2025）开幕</strong>
+</p>
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/AQIS2025会议.jpg" alt="课题组部分参会同学合照" width="600"> <br>
 <strong>亚洲量子资讯科学会议（AQIS 2025）开幕</strong>
