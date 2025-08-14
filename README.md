@@ -40,6 +40,13 @@
 
 ## 课题组重要热点
 
+### *郑聪聪、王璐、何欣临、胡颖颖等同学参加香港大学举办的亚洲量子资讯科学会议（AQIS 2025）（2025.08）*
+&emsp;&emsp;7月21日至23日，[**第四届CCF量子计算大会**](https://conf.ccf.org.cn/web/html7/index.html?globalId=m1347947516531970048174141733159&type=1)以"量子计算融合人工智能赋能千行百业"为主题在中国成都举办，课题组多位同学参加，共投稿三篇poster海报和一篇会议论文。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/部分参会同学合照.jpg" alt="课题组部分参会同学合照" width="600"> <br>
+<strong>课题组部分参会同学合照</strong>
+</p>
+
 ### *刘雨享、王璐、郑聪聪、计金鹏等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
 &emsp;&emsp;7月21日至23日，[**第四届CCF量子计算大会**](https://conf.ccf.org.cn/web/html7/index.html?globalId=m1347947516531970048174141733159&type=1)以"量子计算融合人工智能赋能千行百业"为主题在中国成都举办，课题组多位同学参加，共投稿三篇poster海报和一篇会议论文。 
 <p align="center">
