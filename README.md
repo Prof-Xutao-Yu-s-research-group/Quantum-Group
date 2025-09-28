@@ -41,7 +41,7 @@
 ## 课题组重要热点
 
 ### *课题组发布量子计算线路设计优化与编译桌面软件平台（2025.09）*
-&emsp;&emsp;9月26日，课题组在东南大学发布集成多场景应用的量子线路设计优化与编译桌面软件平台——**东南·云霄**，为人工智能、信息通信、生物医药、新材料等前沿领域的创新提供高效、安全的量子应用实现工具，受到[**新华社**](https://h.xinhuaxmt.com/vh512/share/12747101)、[**人民网**](http://js.people.com.cn/n2/2025/0926/c360307-41364325.html)、[**科技日报**](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/7/407558.html)等多家媒体报道。 
+&emsp;&emsp;9月26日，课题组在东南大学发布集成多场景应用的量子线路设计优化与编译桌面软件平台——[**东南·云霄**](https://news.seu.edu.cn/2025/0926/c55840a540705/page.htm)，为人工智能、信息通信、生物医药、新材料等前沿领域的创新提供高效、安全的量子应用实现工具，被[**新华社**](https://h.xinhuaxmt.com/vh512/share/12747101)、[**人民网**](http://js.people.com.cn/n2/2025/0926/c360307-41364325.html)、[**科技日报**](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/7/407558.html)等多家媒体报道。 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/桌面软件主页.png" alt="桌面软件主页" width="700"> <br>
 <strong>桌面软件主页</strong>
