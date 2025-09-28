@@ -41,10 +41,10 @@
 ## 课题组重要热点
 
 ### *课题组发布量子计算线路设计优化与编译桌面软件平台（2025.09）*
-&emsp;&emsp;8月4日至8日，[**亚洲量子资讯科学会议（AQIS 2025）**](https://www.hku.hk/press/c_news_detail_28534.html)在香港大学百周年校园举行，课题组多位同学投稿参会，其中何欣临同学荣获“Best Student Poster”奖并被[**信息学院报道**](https://mp.weixin.qq.com/s/iLOLWCFcpfGs_-lSj3aHow)。 
+&emsp;&emsp;9月26日，课题组在东南大学发布集成多场景应用的量子线路设计优化与编译桌面软件平台——**东南·云霄**，为人工智能、信息通信、生物医药、新材料等前沿领域的创新提供高效、安全的量子应用实现工具，受到新华社、人民网等多家媒体报道。 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/最佳学生海报奖（2025.08）.jpg" alt="何欣临同学荣获最佳学生海报奖" width="600"> <br>
-<strong>何欣临同学荣获“Best Student Poster”奖</strong>
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/桌面软件主页.png" alt="桌面软件主页" width="600"> <br>
+<strong>桌面软件主页</strong>
 </p>
 
 ### *郑聪聪、王璐、何欣临、胡颖颖、范陆昊多位同学参加亚洲量子资讯科学会议（AQIS 2025）（2025.08）*
