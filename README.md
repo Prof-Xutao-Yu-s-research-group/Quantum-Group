@@ -47,6 +47,13 @@
 <strong>何欣临同学荣获“Best Student Poster”奖</strong>
 </p>
 
+### *郑聪聪、王璐、何欣临、胡颖颖、范陆昊多位同学参加亚洲量子资讯科学会议（AQIS 2025）（2025.08）*
+&emsp;&emsp;8月4日至8日，[**亚洲量子资讯科学会议（AQIS 2025）**](https://www.hku.hk/press/c_news_detail_28534.html)在香港大学百周年校园举行，课题组多位同学投稿参会，其中何欣临同学荣获“Best Student Poster”奖并被[**信息学院报道**](https://mp.weixin.qq.com/s/iLOLWCFcpfGs_-lSj3aHow)。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/最佳学生海报奖（2025.08）.jpg" alt="何欣临同学荣获最佳学生海报奖" width="600"> <br>
+<strong>何欣临同学荣获“Best Student Poster”奖</strong>
+</p>
+
 ### *刘雨享、王璐、郑聪聪、计金鹏等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
 &emsp;&emsp;7月21日至23日，[**第四届CCF量子计算大会**](https://conf.ccf.org.cn/web/html7/index.html?globalId=m1347947516531970048174141733159&type=1)以"量子计算融合人工智能赋能千行百业"为主题在中国成都举办，课题组多位同学参会，共投稿三篇poster海报和一篇会议论文。 
 <p align="center">
@@ -65,12 +72,6 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
 <strong>硕士同学毕业答辩与老师合照</strong>
-</p>
-
-### *李泽通同学顺利完成博士毕业答辩（2025.04）*
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
-<strong>博士毕业答辩进行中</strong>
 </p>
 
 ## 量子计算研究小组介绍
@@ -150,6 +151,12 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
+### *李泽通同学顺利完成博士毕业答辩（2025.04）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
+<strong>博士毕业答辩进行中</strong>
+</p>
+
 ### *胡燚同学完成DeepSeek大模型本地部署（2025.02）*
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/DeepSeek本地部署使用演示.png" alt="DeepSeek本地部署使用演示" width="600"> <br>
