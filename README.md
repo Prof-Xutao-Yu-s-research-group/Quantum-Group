@@ -39,6 +39,12 @@
 
 
 ## 课题组重要热点
+### *课题组同学在2025年度中国青年科技创新“揭榜挂帅” 擂台赛中荣获特等奖（2025.10）*
+&emsp;&emsp;近日，第十九届“挑战杯”全国大学生课外学术科技作品竞赛2025年度中国青年科技创新“揭榜挂帅”擂台赛在全国各地相继举行，课题组同学计金朋、卓恩民、李思萱、韩枝秀、徐晓然、虞昀臻、王璐、刘雨享、何欣临、郑聪聪组成的团队，在张慧、张在琛、余旭涛老师的指导下，凭借出色的“面向多模态任务的量子生成式智能设计与应用”项目荣获全国特等奖，获东南大学[**信息学院报道**](https://mp.weixin.qq.com/s/j01tgA96b9QeEl4hDFbuww)。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/全国大学生课外学术科技作品竞赛（2025.10）.jpg" alt="参赛前部分成员合影" width="700"> <br>
+<strong>参赛前部分成员合影</strong>
+</p>
 
 ### *课题组发布国内首款量子计算线路设计优化与编译桌面软件平台（2025.09）*
 &emsp;&emsp;9月26日，课题组在东南大学发布集成多场景应用的量子线路设计优化与编译桌面软件平台——[**东南·云霄**](https://news.seu.edu.cn/2025/0926/c55840a540705/page.htm)，为人工智能、信息通信、生物医药、新材料等前沿领域的创新提供高效、安全的量子应用实现工具，被[**新华社**](https://h.xinhuaxmt.com/vh512/share/12747101)、[**人民网**](http://js.people.com.cn/n2/2025/0926/c360307-41364325.html)、[**科技日报**](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/7/407558.html)等多家媒体报道。 
@@ -66,12 +72,6 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/计金朋比赛进行时.jpg" alt="比赛进行时" width="600"> <br>
 <strong>比赛进行时</strong>
-</p>
-
-### *2025届硕士同学顺利完成毕业答辩（2025.05）*
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
-<strong>硕士同学毕业答辩与老师合照</strong>
 </p>
 
 ## 量子计算研究小组介绍
@@ -151,6 +151,12 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
+### *2025届硕士同学顺利完成毕业答辩（2025.05）*
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
+<strong>硕士同学毕业答辩与老师合照</strong>
+</p>
+
 ### *李泽通同学顺利完成博士毕业答辩（2025.04）*
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/博士毕业答辩进行中.jpg" alt="博士毕业答辩进行中" width="600"> <br>
