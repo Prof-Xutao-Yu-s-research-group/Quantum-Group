@@ -94,40 +94,50 @@
 1. **Quantum Comb Tomography via Learning Isometries on Stiefel Manifold**  
    *Physical Review Letters, 2025.*  [📄 Link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.010803)
 
-2. **Hybrid Quantum-Classical Inception Neural Network for Image Classification**  
+2. **A speckle noise filtering method based on quantum–classical feature fusion neural networks with Monte Carlo Tree Search**  
+   *ISPRS Journal of Photogrammetry and Remote Sensing, 2025.*  [📄 Link](https://www.sciencedirect.com/science/article/pii/S0924271625004265?via%3Dihub)
+
+3. **Output prediction of quantum circuits based on graph neural networks**  
+   *Frontiers of Physics, 2025.*  [📄 Link](https://journal.hep.com.cn/fop/EN/10.15302/frontphys.2026.063201)
+
+4. **Suppressing quantum errors by noise-aware circuit design**  
+   *Quantum Science and Technology, 2025.*  [📄 Link](https://iopscience.iop.org/article/10.1088/2058-9565/ae05c4)
+
+5. **Hybrid Quantum-Classical Inception Neural Network for Image Classification**  
    *Advanced Quantum Technologies, 2025.*  [📄 Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/qute.202400700)
    
-3. **Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**  
+6. **Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**  
    *Physics Letters A, 2025.*  [📄 Link](https://www.sciencedirect.com/science/article/pii/S0375960125003214)
 
-4. **A quantum moving target segmentation algorithm for grayscale video based on background difference method**  
+7. **A quantum moving target segmentation algorithm for grayscale video based on background difference method**  
    *EPJ Quantum Technology, 2024.*  [📄 Link](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00234-0)
 
-5. **Non-Markovian quantum gate set tomography**  
+8. **Non-Markovian quantum gate set tomography**  
    *Quantum Science and Technology, 2024.*  [📄 Link](https://iopscience.iop.org/article/10.1088/2058-9565/ad3d80/meta)
 
-6. **A quantum moving target segmentation algorithm based on mean background modeling**  
+9. **A quantum moving target segmentation algorithm based on mean background modeling**  
    *Quantum Information Processing, 2024.*  [📄 Link](https://link.springer.com/article/10.1007/s11128-024-04578-5)
 
-7. **Cross-platform comparison of arbitrary quantum processes**  
+8. **Cross-platform comparison of arbitrary quantum processes**  
    *npj Quantum Information, 2024.*  [📄 Link](https://www.nature.com/articles/s41534-023-00797-3)
 
-8. **A quantum synthetic aperture radar image denoising algorithm based on grayscale morphology**  
+10. **A quantum synthetic aperture radar image denoising algorithm based on grayscale morphology**  
    *iScience, 2024.*  [📄 Link](https://www.cell.com/iscience/fulltext/S2589-0042(24)00849-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004224008496%3Fshowall%3Dtrue)
 
-9. **Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection in Massive MIMO**  
+11. **Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection in Massive MIMO**  
    *IEEE Wireless Communications and Networking Conference (WCNC), 2024.*  [📄 Link](https://ieeexplore.ieee.org/document/10571165)
 
-10. **Practical circuit optimization algorithm for quantum simulation based on template matching**  
+12. **Practical circuit optimization algorithm for quantum simulation based on template matching**  
    *Quantum Information Processing, 2024.*  [📄 Link](https://link.springer.com/article/10.1007/s11128-023-04252-2)
 
-11. **Improved Quantum Approximate Optimization Algorithm for Low-Density Parity-Check Channel Decoding**  
+13. **Improved Quantum Approximate Optimization Algorithm for Low-Density Parity-Check Channel Decoding**  
    *Advanced Quantum Technologies, 2024.*  [📄 Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/qute.202300262)
 
-12. **Maximum Likelihood Detection Based on Warm-start Quantum Optimization Algorithm**  
+14. **Maximum Likelihood Detection Based on Warm-start Quantum Optimization Algorithm**  
    *Information Communication Technologies Conference (ICTC), 2024.*  [📄 Link](https://ieeexplore.ieee.org/document/10602129)
 
 ### 专利授权
+
 - **ZL202210713389.9** *一种用于量子信息编码的方法*
 - **ZL202210698044.0** *一种用于计算希尔伯特-施密特检验的方法*
 - **ZL202211647142.8** *一种用于量子神经网络结构优化的抽样方法及相关装置*
