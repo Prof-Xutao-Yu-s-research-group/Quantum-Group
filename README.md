@@ -39,6 +39,20 @@
 
 
 ## 课题组重要热点
+### *李思萱同学第三届量子信息技术与应用创新大赛中斩获金奖（2025.12）*
+&emsp;&emsp;近日，第三届量子信息技术与应用创新大赛——“基于相干光量子计算机的数学建模创新专题赛道”决赛在北京邮电大学科技大厦落下帷幕。经过激烈角逐，课题组李思萱同学牵头的团队作品《基于Hybrid QUBO与SubQUBO的资源压缩LDPC量子解码器》荣获本次大赛B题赛道金奖，获东南大学[**信息学院报道**](https://mp.weixin.qq.com/s/4yJleGoClXA77U1dlz2qBw)。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/金奖颁奖画面（2025.12）.jpg" alt="金奖颁奖画面" width="700"> <br>
+<strong>金奖颁奖画面</strong>
+</p>
+
+### *课题组同学在2025年度中国青年科技创新“揭榜挂帅” 擂台赛中荣获特等奖（2025.10）*
+&emsp;&emsp;近日，第十九届“挑战杯”全国大学生课外学术科技作品竞赛2025年度中国青年科技创新“揭榜挂帅”擂台赛在全国各地相继举行，课题组同学计金朋、卓恩民、李思萱、韩枝秀、徐晓然、虞昀臻、王璐、刘雨享、何欣临、郑聪聪组成的团队，在张慧、张在琛、余旭涛老师的指导下，凭借出色的“面向多模态任务的量子生成式智能设计与应用”项目荣获全国特等奖，获东南大学[**信息学院报道**](https://mp.weixin.qq.com/s/j01tgA96b9QeEl4hDFbuww)。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/全国大学生课外学术科技作品竞赛（2025.10）.jpg" alt="参赛前部分成员合影" width="700"> <br>
+<strong>参赛前部分成员合影</strong>
+</p>
+
 ### *课题组同学在2025年度中国青年科技创新“揭榜挂帅” 擂台赛中荣获特等奖（2025.10）*
 &emsp;&emsp;近日，第十九届“挑战杯”全国大学生课外学术科技作品竞赛2025年度中国青年科技创新“揭榜挂帅”擂台赛在全国各地相继举行，课题组同学计金朋、卓恩民、李思萱、韩枝秀、徐晓然、虞昀臻、王璐、刘雨享、何欣临、郑聪聪组成的团队，在张慧、张在琛、余旭涛老师的指导下，凭借出色的“面向多模态任务的量子生成式智能设计与应用”项目荣获全国特等奖，获东南大学[**信息学院报道**](https://mp.weixin.qq.com/s/j01tgA96b9QeEl4hDFbuww)。 
 <p align="center">
@@ -58,20 +72,6 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/最佳学生海报奖（2025.08）.jpg" alt="何欣临同学荣获最佳学生海报奖" width="600"> <br>
 <strong>何欣临同学荣获“Best Student Poster”奖</strong>
-</p>
-
-### *刘雨享、王璐、郑聪聪、计金鹏、李思宣等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
-&emsp;&emsp;7月21日至23日，[**第四届CCF量子计算大会**](https://conf.ccf.org.cn/web/html7/index.html?globalId=m1347947516531970048174141733159&type=1)以"量子计算融合人工智能赋能千行百业"为主题在中国成都举办，课题组多位同学参会，共投稿三篇poster海报和一篇会议论文，其中李思萱同学荣获“CQCC 2025优秀Poster”奖。 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/部分参会同学合照.jpg" alt="课题组部分参会同学合照" width="600"> <br>
-<strong>课题组部分参会同学合照</strong>
-</p>
-
-### *计金朋同学荣获首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛特等奖（2025.07）*
-&emsp;&emsp;7月3日至4日，首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛在中共昆山市委党校举办。计金朋同学在决赛现场围绕“中国式现代化的学理阐释”，“中国式现代化的生动实践”及“中国式现代化的昆山观察”三大主题进行8分钟限时宣讲，荣获特等奖并被[**东南大学报道**](https://mp.weixin.qq.com/s/9sADBW6bSYzsfBYqatcfEQ)。 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/计金朋比赛进行时.jpg" alt="比赛进行时" width="600"> <br>
-<strong>比赛进行时</strong>
 </p>
 
 ## 量子计算研究小组介绍
@@ -151,6 +151,20 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
+### *刘雨享、王璐、郑聪聪、计金鹏、李思宣等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
+&emsp;&emsp;7月21日至23日，[**第四届CCF量子计算大会**](https://conf.ccf.org.cn/web/html7/index.html?globalId=m1347947516531970048174141733159&type=1)以"量子计算融合人工智能赋能千行百业"为主题在中国成都举办，课题组多位同学参会，共投稿三篇poster海报和一篇会议论文，其中李思萱同学荣获“CQCC 2025优秀Poster”奖。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/部分参会同学合照.jpg" alt="课题组部分参会同学合照" width="600"> <br>
+<strong>课题组部分参会同学合照</strong>
+</p>
+
+### *计金朋同学荣获首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛特等奖（2025.07）*
+&emsp;&emsp;7月3日至4日，首届“东大-昆山”杯全国高校青年研究生理论宣讲邀请赛在中共昆山市委党校举办。计金朋同学在决赛现场围绕“中国式现代化的学理阐释”，“中国式现代化的生动实践”及“中国式现代化的昆山观察”三大主题进行8分钟限时宣讲，荣获特等奖并被[**东南大学报道**](https://mp.weixin.qq.com/s/9sADBW6bSYzsfBYqatcfEQ)。 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/计金朋比赛进行时.jpg" alt="比赛进行时" width="600"> <br>
+<strong>比赛进行时</strong>
+</p>
+
 ### *2025届硕士同学顺利完成毕业答辩（2025.05）*
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/硕士毕业答辩合照.jpg" alt="硕士毕业答辩合照" width="600"> <br>
