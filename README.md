@@ -169,7 +169,7 @@ This work is licensed under the [CC BY-ND 4.0 International License](https://cre
 ---
 
 ## 课题组历史热点回顾
-### *刘雨享、王璐、郑聪聪、计金鹏、李思宣等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
+### *刘雨享、王璐、郑聪聪、计金鹏、李思萱等同学参加成都举办的第四届CCF量子计算大会（2025.07）*
 &emsp;&emsp;7月21日至23日，[**第四届CCF量子计算大会**](https://conf.ccf.org.cn/web/html7/index.html?globalId=m1347947516531970048174141733159&type=1)以"量子计算融合人工智能赋能千行百业"为主题在中国成都举办，课题组多位同学参会，共投稿三篇poster海报和一篇会议论文，其中李思萱同学荣获“CQCC 2025优秀Poster”奖。 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/部分参会同学合照.jpg" alt="课题组部分参会同学合照" width="600"> <br>
