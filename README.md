@@ -46,11 +46,11 @@
 <strong>金奖颁奖画面</strong>
 </p>
 
-### *课题组同学在2025年度中国青年科技创新“揭榜挂帅” 擂台赛中荣获特等奖（2025.10）*
-&emsp;&emsp;近日，第十九届“挑战杯”全国大学生课外学术科技作品竞赛2025年度中国青年科技创新“揭榜挂帅”擂台赛在全国各地相继举行，课题组同学计金朋、卓恩民、李思萱、韩枝秀、徐晓然、虞昀臻、王璐、刘雨享、何欣临、郑聪聪组成的团队，在张慧、张在琛、余旭涛老师的指导下，凭借出色的“面向多模态任务的量子生成式智能设计与应用”项目荣获全国特等奖，获东南大学[**信息学院报道**](https://mp.weixin.qq.com/s/j01tgA96b9QeEl4hDFbuww)。 
+### *课题组接受江苏电视台采访“攻坚量子实用化 开拓产业新赛道”（2025.10）*
+&emsp;&emsp;近日，课题组接受江苏电视台城市频道的[**壹周播报栏目**](https://mp.weixin.qq.com/s/QmjS-puZfCIkbC0Ovpm-ug?poc_token=HO8fVmmjUeInK8z0InREFTJbpPX_y2dEZ8oHHvhk)采访。课题组在采访中对阶段性成果进行展示，并对下一阶段的工作目标提出更高要求，让研究成果能更好为产业赋能。 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/全国大学生课外学术科技作品竞赛（2025.10）.jpg" alt="参赛前部分成员合影" width="700"> <br>
-<strong>参赛前部分成员合影</strong>
+<img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/采访在壹周播报栏目播出（2025.11）.jpg" alt="采访在壹周播报栏目播出" width="700"> <br>
+<strong>采访在壹周播报栏目播出</strong>
 </p>
 
 ### *课题组同学在2025年度中国青年科技创新“揭榜挂帅” 擂台赛中荣获特等奖（2025.10）*
