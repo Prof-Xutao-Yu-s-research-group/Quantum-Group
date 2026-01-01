@@ -40,7 +40,7 @@
 
 ## 课题组重要热点
 ### *李思萱同学在第三届量子信息技术与应用创新大赛中斩获金奖（2025.12）*
-&emsp;&emsp;近日，第三届量子信息技术与应用创新大赛——“基于相干光量子计算机的数学建模创新专题赛道”决赛在北京邮电大学科技大厦落下帷幕。经过激烈角逐，课题组李思萱同学牵头的团队作品《基于Hybrid QUBO与SubQUBO的资源压缩LDPC量子解码器》荣获本次大赛B题赛道金奖，获东南大学[**信息学院报道**](https://mp.weixin.qq.com/s/4yJleGoClXA77U1dlz2qBw)。 
+&emsp;&emsp;近日，第三届量子信息技术与应用创新大赛——“基于相干光量子计算机的数学建模创新专题赛道”决赛在北京邮电大学科技大厦落下帷幕。经过激烈角逐，课题组李思萱同学牵头的团队作品《基于Hybrid QUBO与SubQUBO的资源压缩LDPC量子解码器》在余旭涛老师的指导下荣获本次大赛B题赛道金奖，获东南大学[**信息学院报道**](https://mp.weixin.qq.com/s/4yJleGoClXA77U1dlz2qBw)。 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/金奖颁奖画面（2025.12）.png" alt="金奖颁奖画面" width="700"> <br>
 <strong>金奖颁奖画面</strong>
