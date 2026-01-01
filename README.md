@@ -100,22 +100,28 @@
 3. **Output prediction of quantum circuits based on graph neural networks**  
    *Frontiers of Physics, 2025.*  [📄 Link](https://journal.hep.com.cn/fop/EN/10.15302/frontphys.2026.063201)
 
-4. **Suppressing quantum errors by noise-aware circuit design**  
+4. **GHZ-W genuinely entangled subspace verification with adaptive local measurements**  
+   *Science China-Information Sciences, 2025.*  [📄 Link](https://link.springer.com/article/10.1007/s11432-024-4515-1)
+
+5. **Suppressing quantum errors by noise-aware circuit design**  
    *Quantum Science and Technology, 2025.*  [📄 Link](https://iopscience.iop.org/article/10.1088/2058-9565/ae05c4)
 
-5. **Hybrid Quantum-Classical Inception Neural Network for Image Classification**  
+6. **Quantum process overlapping tomography: Theory and experiment**  
+   *Physical Review Applied, 2025.*  [📄 Link](https://journals.aps.org/prapplied/abstract/10.1103/jkf7-wfcn)
+
+7. **Hybrid Quantum-Classical Inception Neural Network for Image Classification**  
    *Advanced Quantum Technologies, 2025.*  [📄 Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/qute.202400700)
    
-6. **Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**  
+8. **Rapidly Trainable and Shallow-Compiled Quantum Approximate Optimization Algorithm for Maximum Likelihood Detection**  
    *Physics Letters A, 2025.*  [📄 Link](https://www.sciencedirect.com/science/article/pii/S0375960125003214)
 
-7. **A quantum moving target segmentation algorithm for grayscale video based on background difference method**  
+9. **A quantum moving target segmentation algorithm for grayscale video based on background difference method**  
    *EPJ Quantum Technology, 2024.*  [📄 Link](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00234-0)
 
-8. **Non-Markovian quantum gate set tomography**  
+10. **Non-Markovian quantum gate set tomography**  
    *Quantum Science and Technology, 2024.*  [📄 Link](https://iopscience.iop.org/article/10.1088/2058-9565/ad3d80/meta)
 
-9. **A quantum moving target segmentation algorithm based on mean background modeling**  
+11. **A quantum moving target segmentation algorithm based on mean background modeling**  
    *Quantum Information Processing, 2024.*  [📄 Link](https://link.springer.com/article/10.1007/s11128-024-04578-5)
 
 8. **Cross-platform comparison of arbitrary quantum processes**  
@@ -138,8 +144,10 @@
 
 ### 专利授权
 
+
 - **ZL202210713389.9** *一种用于量子信息编码的方法*
 - **ZL202210698044.0** *一种用于计算希尔伯特-施密特检验的方法*
+- **ZL202210532473.0** *一种基于贪婪算法的量子线路优化方法*
 - **ZL202211647142.8** *一种用于量子神经网络结构优化的抽样方法及相关装置*
 - **ZL202211632717.9** *一种量子线路优化方法、装置、设备及存储介质*
 - **ZL202110981529.6** *一种基于量子生成对抗网络的信道建模方法*
