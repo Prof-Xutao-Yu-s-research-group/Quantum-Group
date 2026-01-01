@@ -46,7 +46,7 @@
 <strong>金奖颁奖画面</strong>
 </p>
 
-### *课题组接受江苏电视台采访“攻坚量子实用化 开拓产业新赛道”（2025.10）*
+### *课题组接受江苏电视台采访，“攻坚量子实用化 开拓产业新赛道”（2025.10）*
 &emsp;&emsp;近日，课题组接受江苏电视台城市频道的[**壹周播报栏目**](https://mp.weixin.qq.com/s/QmjS-puZfCIkbC0Ovpm-ug?poc_token=HO8fVmmjUeInK8z0InREFTJbpPX_y2dEZ8oHHvhk)采访。课题组在采访中对阶段性成果进行展示，并对下一阶段的工作目标提出更高要求，让研究成果能更好为产业赋能。 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Prof-Xutao-Yu-s-research-group/Quantum-Group@main/Cover%20images/采访在壹周播报栏目播出（2025.11）.png" alt="采访在壹周播报栏目播出" width="700"> <br>
